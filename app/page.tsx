@@ -51,9 +51,6 @@ export default function Home() {
           <WalletAuth />
         </section>
         
-        <section className="bg-white rounded-xl shadow-md p-6 transition-all hover:shadow-lg">
-          <h2 className="text-xl font-semibold mb-4 text-gray-800">Payment</h2>
-          <PayBlock />
         </section>
       </div>
     </main>
